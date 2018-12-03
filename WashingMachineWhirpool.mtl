@@ -12,5 +12,5 @@ newmtl WM_Unik_LR01
 	Kd 0.588000 0.588000 0.588000
 	Ks 0.000000 0.000000 0.000000
 	Ke 0.000000 0.000000 0.000000
-	map_Ka E:\Cad\whirlpool-awo43135-washing-machine-1.snapshot.34\END1\WM_Unik_LR01_albedo.jpg
-	map_Kd E:\Cad\whirlpool-awo43135-washing-machine-1.snapshot.34\END1\WM_Unik_LR01_albedo.jpg
+	map_Ka WM_Unik_LR01_albedo.jpg
+	map_Kd WM_Unik_LR01_albedo.jpg
