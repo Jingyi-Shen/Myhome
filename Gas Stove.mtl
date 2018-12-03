@@ -12,8 +12,8 @@ newmtl Stone1
 	Kd 0.588235 0.588235 0.588235
 	Ks 0.000000 0.000000 0.000000
 	Ke 0.000000 0.000000 0.000000
-	map_Ka E:\Cad\oven-9.snapshot.1\end1\granite_stone.jpg
-	map_Kd E:\Cad\oven-9.snapshot.1\end1\granite_stone.jpg
+	map_Ka granite_stone.jpg
+	map_Kd granite_stone.jpg
 
 newmtl Ciulla_Baked_01
 	Ns 9.999999
@@ -26,6 +26,6 @@ newmtl Ciulla_Baked_01
 	Kd 0.588235 0.588235 0.588235
 	Ks 0.000000 0.000000 0.000000
 	Ke 0.000000 0.000000 0.000000
-	map_Ka E:\Cad\oven-9.snapshot.1\end1\Ciulla_Baked_01_albedo.jpg
-	map_Kd E:\Cad\oven-9.snapshot.1\end1\Ciulla_Baked_01_albedo.jpg
-	map_Ks E:\Cad\oven-9.snapshot.1\end1\Ciulla_Baked_01_specular.jpg
+	map_Ka Ciulla_Baked_01_albedo.jpg
+	map_Kd Ciulla_Baked_01_albedo.jpg
+	map_Ks Ciulla_Baked_01_specular.jpg
